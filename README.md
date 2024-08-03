@@ -1,1 +1,1 @@
-# Awesome_Mathematics
+# Awesome Mathematics
