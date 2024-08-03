@@ -6,3 +6,7 @@
 
 ## Numerical Methods
 
+## Applied Mathematics
+
+## Graph Theory amd Combinatorics
+
