@@ -16,7 +16,7 @@
 
 ## Calculus
 
-## Probaility and Statistics
+## Probability and Statistics
 
 ## Global Analysis
 
