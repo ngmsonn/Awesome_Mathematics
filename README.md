@@ -23,6 +23,8 @@
 ## Global Analysis
 
 ## Differential Equations
+### Courses
+* [Ordinary Differential Equations](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw)
 
 ## Analysis
 
