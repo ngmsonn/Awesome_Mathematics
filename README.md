@@ -37,3 +37,4 @@
 
 ## Tham khảo
 * [Mathematics: Textbooks (Math and Statistics)](https://libguides.mit.edu/c.php?g=176079&p=1159723)
+* [Github: Awesome Math - rossant](https://github.com/rossant/awesome-math)
