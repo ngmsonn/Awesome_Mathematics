@@ -39,3 +39,4 @@
 * [Mathematics: Textbooks (Math and Statistics)](https://libguides.mit.edu/c.php?g=176079&p=1159723)
 * [Github: Awesome Math - rossant](https://github.com/rossant/awesome-math)
 * [Github: Topics course Mathematics of Deep Learning, NYU, Spring 18. CSCI-GA 3033](https://github.com/joanbruna/MathsDL-spring18)
+* [Github: Inference and Representation (DS-GA-1005, CSCI-GA.2569)](https://github.com/joanbruna/infrep17)
