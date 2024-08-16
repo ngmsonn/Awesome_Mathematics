@@ -35,6 +35,10 @@
 
 ## Number Theory
 
+## Information Theory
+### Course
+* [Youtube: Information Theory | Harvard 2022](https://www.youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o)
+
 ## Tham khảo
 * [Mathematics: Textbooks (Math and Statistics)](https://libguides.mit.edu/c.php?g=176079&p=1159723)
 * [Github: Awesome Math - rossant](https://github.com/rossant/awesome-math)
