@@ -39,6 +39,7 @@
 ### Course
 * [Youtube: Information Theory | Harvard 2022](https://www.youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o)
 * [Youtube: Information Theory course by Prof. Raymond Yeung (CUHK)](https://www.youtube.com/playlist?list=PLZDU8a6AcnuixlMLNuqvQSS7PDUK8pZmO)
+* [Youtube: Introduction to Information Theory](https://www.youtube.com/playlist?list=PLv_7iO_xlL0Kz2nU05COpINjU8C0UPICA)
 ### Books
 * [Information Theory, Inference, and Learning Algorithms | David J.C. MacKay](https://www.snn.ru.nl/~bertk/machinelearning/book.pdf)
 ## Tham khảo
