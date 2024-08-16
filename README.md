@@ -38,7 +38,7 @@
 ## Information Theory
 ### Course
 * [Youtube: Information Theory | Harvard 2022](https://www.youtube.com/playlist?list=PLDEN2FPNHwVZKAFqfFl1b_NNAESTJwV9o)
-
+* [Youtube: Information Theory course by Prof. Raymond Yeung (CUHK)](https://www.youtube.com/playlist?list=PLZDU8a6AcnuixlMLNuqvQSS7PDUK8pZmO)
 ## Tham khảo
 * [Mathematics: Textbooks (Math and Statistics)](https://libguides.mit.edu/c.php?g=176079&p=1159723)
 * [Github: Awesome Math - rossant](https://github.com/rossant/awesome-math)
