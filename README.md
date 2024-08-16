@@ -23,7 +23,8 @@
 * [Calculus IV: Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
 
 ## Probability and Statistics
-
+### Courses
+* [Youtube: Probabilistic Methods | Luke Postle](https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU)
 ## Global Analysis
 
 ## Differential Equations
