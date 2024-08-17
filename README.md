@@ -27,7 +27,8 @@
 * [Youtube: Probabilistic Methods | Luke Postle](https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU)
 * [9.520/6.860: Statistical Learning Theory and Applications](https://www.youtube.com/playlist?list=PLyGKBDfnk-iB4Xz_EAJNEgGF5I-6OzRNI)
 ## Global Analysis
-
+## Books
+* [Introduction to Global Optimization | Rodolphe Le Riche, Charlie Sire](https://hal.science/hal-03500652/file/intro_global_optimization_LeRiche_Sire_HAL_v2.pdf)
 ## Differential Equations
 ### Courses
 * [Ordinary Differential Equations](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw)
