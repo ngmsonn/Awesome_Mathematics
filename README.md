@@ -47,6 +47,7 @@
 * [Youtube: Introduction to Information Theory](https://www.youtube.com/playlist?list=PLv_7iO_xlL0Kz2nU05COpINjU8C0UPICA)
 ### Books
 * [Information Theory, Inference, and Learning Algorithms | David J.C. MacKay](https://www.snn.ru.nl/~bertk/machinelearning/book.pdf)
+* [Towards an Information Theory of Complex Networks: Statistical Methods and Applications](https://link.springer.com/book/10.1007/978-0-8176-4904-3)
 ## Tham khảo
 * [Mathematics: Textbooks (Math and Statistics)](https://libguides.mit.edu/c.php?g=176079&p=1159723)
 * [Github: Awesome Math - rossant](https://github.com/rossant/awesome-math)
