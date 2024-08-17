@@ -25,6 +25,7 @@
 ## Probability and Statistics
 ### Courses
 * [Youtube: Probabilistic Methods | Luke Postle](https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU)
+* [9.520/6.860: Statistical Learning Theory and Applications](https://www.youtube.com/playlist?list=PLyGKBDfnk-iB4Xz_EAJNEgGF5I-6OzRNI)
 ## Global Analysis
 
 ## Differential Equations
