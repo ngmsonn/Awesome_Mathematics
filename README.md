@@ -1,8 +1,9 @@
 # Awesome Mathematics
 
-## General
+## Concepts
 ### Books
 * [Mathematical Concepts](https://link.springer.com/book/10.1007/978-3-319-20436-9)
+* [Fundamental Mathematical Concepts for Machine Learning in Science](https://link.springer.com/book/10.1007/978-3-031-56431-4)
 
 ## Logic
 
