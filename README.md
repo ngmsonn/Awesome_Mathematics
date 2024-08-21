@@ -2,7 +2,7 @@
 
 ## General
 ### Books
-* []()
+* [Mathematical Concepts](https://link.springer.com/book/10.1007/978-3-319-20436-9)
 
 ## Logic
 
