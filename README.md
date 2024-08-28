@@ -23,7 +23,7 @@
 * [A Primer on Linear Algebra for Data Science](https://www.youtube.com/playlist?list=PLB3yPBd26tWyqTW8apcoqg_abqdY-AP06)
 
 ## Calculus
-### Course
+### Courses
 * [Calculus I: Limits, Derivative, Integrals](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m)
 * [Calculus II: Integration Methods, Series, Parametric/Polar, Vectors](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n)
 * [Calculus III: Multivariable Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd)
