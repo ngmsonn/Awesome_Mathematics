@@ -20,7 +20,7 @@
 
 ## Algebra
 ### Courses
-
+* [A Primer on Linear Algebra for Data Science](https://www.youtube.com/playlist?list=PLB3yPBd26tWyqTW8apcoqg_abqdY-AP06)
 
 ## Calculus
 ### Course
